@@ -1,0 +1,15 @@
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\SinhVien.exe.config
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\SinhVien.exe
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\SinhVien.pdb
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\EntityFramework.dll
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\EntityFramework.xml
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.csprojAssemblyReference.cache
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.frmThongTin.resources
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.Properties.Resources.resources
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.GenerateResource.cache
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.CopyComplete
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.exe
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.pdb
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.Migrations.add.resources
