@@ -14,5 +14,9 @@ namespace SinhVien.Model
         public string TenKhoa { get; set; }
         public ICollection<SinhVien> ListSV { get; set; } //1 khoa có 1 hoặc nhiều SV
         public ICollection<Mon> ListMon { get; set; }
+        public override string ToString()
+        {
+            return TenKhoa;
+        }
     }
 }

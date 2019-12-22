@@ -13,3 +13,4 @@ D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.csproj.CopyComplete
 D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.exe
 D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.pdb
 D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.Migrations.add.resources
+D:\Mine\Sau\Study\NET\SinhVien\SinhVien\obj\Debug\SinhVien.frmThemSV.resources
